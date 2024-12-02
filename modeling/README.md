@@ -145,25 +145,11 @@ This notebook focuses on building supervised machine learning models to predict 
 
 ### 6. Price Elasticity Calculation
 - **Method**:
-  - The calculations are broken down as follows:
+  - The calculations are represented below:
 
-#### Percentage Change in Demand:
+![elas](https://github.com/user-attachments/assets/366269db-25e3-4836-aaec-59f7d9e72255)
 
-\[
-\text{Percentage Change in Demand} = \frac{\text{Predicted Demand (Dec 2018)} - \text{Actual Demand (Nov 2018)}}{\text{Actual Demand (Nov 2018)}} \times 100
-\]
 
-#### Percentage Change in Price:
-
-\[
-\text{Percentage Change in Price} = \frac{\text{Price (Dec 2018)} - \text{Price (Nov 2018)}}{\text{Price (Nov 2018)}} \times 100
-\]
-
-#### Price Elasticity of Demand (PED):
-
-\[
-\text{PED} = \frac{\text{Percentage Change in Demand}}{\text{Percentage Change in Price}}
-\]
 
 ---
 
@@ -180,13 +166,107 @@ This notebook focuses on building supervised machine learning models to predict 
 
 ---
 
-# Time Series Forecasting
+## Time Series Forecasting
 
 ### Overview
-This notebook applies time-series forecasting techniques to predict future demand for selected food categories in various metropolitan regions.
+This notebook applies time-series forecasting techniques to predict future demand for selected food categories in various metropolitan regions. It focuses on capturing temporal patterns and trends to generate accurate forecasts.
 
 ---
 
 ### Objectives
-- Forecast purchase quantities for the next 6 to 12 months.
-- Analyze seasonal trends using ARIMA and Exponential Smoothing models.
+- Develop time-series models to forecast future purchase quantities.
+- Analyze model performance and select the best forecasting approach.
+- Provide actionable insights for demand planning and resource allocation.
+
+---
+
+### Methodology
+#### 1. Data Preparation
+- **Dataset Used**: `metroregion_filtered_data.csv`.
+- **Preprocessing**:
+  - Converted `Year` and `Month` into a datetime index.
+  - Ensured time-series data is sorted and has consistent frequency.
+  - Handled missing values by interpolation or filling with appropriate methods.
+
+#### 2. Exploratory Time-Series Analysis
+- **Trend Analysis**:
+  - Plotted time-series graphs to observe trends over time.
+  - Identified upward or downward trends in purchase quantities.
+- **Seasonality Detection**:
+  - Used seasonal decomposition to separate time-series components:
+    - Trend
+    - Seasonality
+    - Residual
+
+#### 3. Stationarity Testing
+- Conducted the Augmented Dickey-Fuller (ADF) test to check for stationarity.
+- Applied differencing to make the series stationary if required.
+
+#### 4. Model Selection
+- **Forecasting Models Used**:
+  - ARIMA (AutoRegressive Integrated Moving Average)
+  - SARIMA (Seasonal ARIMA)
+  - Exponential Smoothing:
+    - Holt-Winters Method
+
+#### 5. Model Fitting
+- **ARIMA/SARIMA**:
+  - Identified optimal parameters `(p, d, q)` and seasonal components `(P, D, Q, s)` using ACF and PACF plots.
+  - Fitted models to the stationary series.
+- **Exponential Smoothing**:
+  - Applied additive or multiplicative models based on data characteristics.
+  - Configured trend and seasonality components.
+
+#### 6. Forecasting and Evaluation
+- **Forecast Horizon**:
+  - Generated forecasts for the next 6 to 12 months.
+- **Model Evaluation Metrics**:
+  - Mean Absolute Error (MAE)
+  - Root Mean Squared Error (RMSE)
+  - Mean Absolute Percentage Error (MAPE)
+  - Akaike Information Criterion (AIC) for model comparison.
+- **Visual Assessment**:
+  - Plotted actual vs. forecasted values.
+  - Analyzed residual plots to check for randomness.
+
+---
+
+### Key Insights
+#### Model Performance:
+- SARIMA models generally performed better for data with strong seasonal components.
+- Holt-Winters Exponential Smoothing provided robust forecasts for certain categories.
+
+#### Forecast Results:
+- Predicted demand trends aligned with historical seasonal patterns.
+- Identified periods of expected high demand for proactive planning.
+
+---
+
+### Outputs
+- **Forecasted Demand**:
+  - Numerical forecasts for future purchase quantities.
+  - Confidence intervals to express forecast uncertainty.
+- **Visualizations**:
+  - Time-series plots with historical data and forecasted values.
+  - Decomposition plots showing trend, seasonality, and residuals.
+
+---
+
+### Applications
+- **Demand Planning**:
+  - Use forecasts to inform procurement and supply chain decisions.
+  - Optimize inventory levels ahead of anticipated demand surges.
+- **Resource Allocation**:
+  - Allocate marketing and operational resources during forecasted peak periods.
+- **Strategic Decision-Making**:
+  - Support long-term planning with insights into future demand trajectories.
+
+---
+
+### Dependencies
+- **Python Libraries**:
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+  - `statsmodels`
+  - `scikit-learn` (for evaluation metrics)
