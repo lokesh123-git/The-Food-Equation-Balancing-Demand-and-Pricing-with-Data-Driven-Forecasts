@@ -25,7 +25,7 @@ The datasets were sourced from two authoritative government organizations:
 ## Data Integration Process
 The following flowchart illustrates how the data was merged and processed for analysis:
 
-![Data Flow Chart](data_flow_chart.png)
+![Picture3](https://github.com/user-attachments/assets/68338e51-4021-4b82-a344-2e3d35209f50)
 
 - **Merge Criteria**:
   - Shared keys: `City`, `Region`, `Year`, and `Month`.
@@ -35,14 +35,26 @@ The following flowchart illustrates how the data was merged and processed for an
   - Divided into **National**, **Regional**, and **Metro-Regional** datasets for granular analysis.
 
 - **Filtering**:
-  - Focused on the top 10 food categories based on highest demand.
+  - Focused on the top 10 food categories based on highest demand:
+    1. Alcohol  
+    2. All other caloric beverages  
+    3. Frozen and refrigerated ready-to-heat foods  
+    4. Beef, pork, lamb, veal, and game, fresh  
+    5. Bacon, sausage, and lunch meats  
+    6. Cheese  
+    7. Canned soups  
+    8. Non-caloric beverages  
+    9. Milk, fresh  
+    10. Eggs
+ 
+![Picture2](https://github.com/user-attachments/assets/00c624c9-fcbd-41cf-98e2-74a08477b345)
 
 ---
 
 ## Dataset Description
 The final cleaned dataset contains the following key variables:
 
-![Dataset Description](dataset_description.png)
+![Screenshot 2024-12-02 002703](https://github.com/user-attachments/assets/59b81b54-773c-482b-a064-dd93048fe56a)
 
 ---
 
@@ -61,27 +73,20 @@ The final cleaned dataset contains the following key variables:
      - Top 10 high-demand food categories.
    - Used for focused analysis, including demand forecasting and elasticity studies.
 
-3. **`dataset_description.png`**:
-   - Image providing detailed descriptions of the variables in the dataset.
-
-4. **`data_flow_chart.png`**:
-   - Flowchart depicting the data integration and processing pipeline.
-
-5. **Key Variables Explanation Image**:
-   - Refer to the image below for an explanation of key variables:
-
-   ![Key Variables](key_variables_image.png)
 
 ---
 
 ## Data Usage
 The cleaned datasets are used for:
-- **Demand Forecasting**:
-  - Predicting future purchase trends for food categories.
-- **Price Elasticity Analysis**:
-  - Quantifying how price changes impact consumer demand.
 - **Seasonality Studies**:
-  - Understanding recurring patterns in demand across seasons.
+  - Analyzing recurring demand patterns across different times of the year to identify peak periods for high-demand food categories.
+- **Demand Prediction Models**:
+  - Building supervised learning models (e.g., Decision Trees, Random Forest) to predict purchase quantities based on economic and food pricing data.
+- **Time Series Forecasting**:
+  - Applying models like ARIMA and Exponential Smoothing to forecast future demand trends for selected food categories.
+- **Price Elasticity Analysis**:
+  - Quantifying how price changes impact consumer demand using machine learning techniques and economic data.
+
 
 ---
 
