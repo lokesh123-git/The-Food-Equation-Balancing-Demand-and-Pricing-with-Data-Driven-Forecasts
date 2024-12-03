@@ -95,7 +95,7 @@ If you find this project helpful or interesting, feel free to ⭐ star the repos
   - ARIMA
   - SARIMA
   - Exponential Smoothing
-- Generated forecasts for the next 6–12 months.
+- Generated forecasts for the next 6 months.
 
 ---
 
