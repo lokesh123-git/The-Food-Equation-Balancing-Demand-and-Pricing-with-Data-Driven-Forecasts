@@ -1,0 +1,20 @@
+# Data Manipulation
+pandas==1.5.3
+numpy==1.23.5
+
+# Visualization
+matplotlib==3.6.2
+seaborn==0.12.1
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Time Series Analysis
+statsmodels==0.13.5
+pmdarima==2.0.3
+
+# Forecasting
+prophet==1.1
+
+# Miscellaneous
+jupyter==1.0.0
