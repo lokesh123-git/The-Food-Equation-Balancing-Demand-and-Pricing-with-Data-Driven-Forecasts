@@ -45,7 +45,20 @@ The following flowchart illustrates how the data was merged and processed for an
     7. Canned soups  
     8. Non-caloric beverages  
     9. Milk, fresh  
-    10. Eggs
+    10. Eggs  
+
+  - Focused on the following top 10 metropolitan regions:
+    1. New York-Newark-Jersey City, NY-NJ-PA  
+    2. Los Angeles-Long Beach-Anaheim, CA  
+    3. Chicago-Naperville-Elgin, IL-IN-WI  
+    4. Dallas-Fort Worth-Arlington, TX  
+    5. Atlanta-Sandy Springs-Roswell, GA  
+    6. Miami-Fort Lauderdale-West Palm Beach, FL  
+    7. Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  
+    8. Houston-The Woodlands-Sugar Land, TX  
+    9. Detroit-Warren-Dearborn, MI  
+    10. Washington-Arlington-Alexandria, DC-VA-MD-WV
+
  
 ![Picture2](https://github.com/user-attachments/assets/00c624c9-fcbd-41cf-98e2-74a08477b345)
 
