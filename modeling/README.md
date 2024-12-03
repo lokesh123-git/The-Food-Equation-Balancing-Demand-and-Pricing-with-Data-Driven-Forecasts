@@ -219,7 +219,7 @@ This notebook applies time-series forecasting techniques to predict future deman
 
 #### 6. Forecasting and Evaluation
 - **Forecast Horizon**:
-  - Generated forecasts for the next 6 to 12 months.
+  - Generated forecasts for the next 6 months.
 - **Model Evaluation Metrics**:
   - Mean Absolute Error (MAE)
   - Root Mean Squared Error (RMSE)
@@ -233,7 +233,7 @@ This notebook applies time-series forecasting techniques to predict future deman
 ### Key Insights
 #### Model Performance:
 - Seasonal Naive models generally performed better for data with strong seasonal components.
-- Holt-Winters Exponential Smoothing provided robust forecasts for certain categories.
+- Exponential Smoothing provided robust forecasts for certain categories.
 
 #### Forecast Results:
 - Predicted demand trends aligned with historical seasonal patterns.
