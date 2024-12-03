@@ -22,7 +22,7 @@ The goal of the seasonality analysis is to:
 ## Methodology
 
 ### Data Preparation:
-- Input dataset: `City_EFPG_filtered.csv`.
+- Input dataset: `metroregion_filtered_data.csv`.
 - Preprocessed columns to convert `Year` and `Month` into a single `Date` column.
 - Added a `Season` column to classify months into **Winter**, **Spring**, **Summer**, and **Fall**.
 
