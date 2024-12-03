@@ -111,9 +111,10 @@ This notebook focuses on building supervised machine learning models to predict 
 ### 2. Feature Engineering
 - **Feature Selection**:
   - Selected relevant features such as:
-    - **Economic Indicators**: `Labor_force`, `Unemployment rate`, `Employment`.
-    - **Pricing Variables**: `Unit_value_mean_wtd`, `Price_index_GEKS`.
-    - **Temporal Variables**: `Year`, `Month`, `Season`.
+    - **Economic Indicators**: `Labor_force`, `Unemployment`.
+    - **Pricing Variables**: `Unit_value_mean_wtd`, `Price_index_GEKS`, `Number_stores`.
+    - **City name**: `Metroregion_name`.
+    -  - **Food Product name**: `EFPG_name`.
 - **Target Variable**:
   - `Purchase_grams_wtd`: The weighted purchase quantity to be predicted.
 
@@ -186,7 +187,6 @@ This notebook applies time-series forecasting techniques to predict future deman
 - **Preprocessing**:
   - Converted `Year` and `Month` into a datetime index.
   - Ensured time-series data is sorted and has consistent frequency.
-  - Handled missing values by interpolation or filling with appropriate methods.
 
 #### 2. Exploratory Time-Series Analysis
 - **Trend Analysis**:
@@ -206,15 +206,15 @@ This notebook applies time-series forecasting techniques to predict future deman
 - **Forecasting Models Used**:
   - ARIMA (AutoRegressive Integrated Moving Average)
   - SARIMA (Seasonal ARIMA)
-  - Exponential Smoothing:
-    - Holt-Winters Method
+  - Seasonal Naive
+  - Exponential Smoothing
 
 #### 5. Model Fitting
 - **ARIMA/SARIMA**:
   - Identified optimal parameters `(p, d, q)` and seasonal components `(P, D, Q, s)` using ACF and PACF plots.
   - Fitted models to the stationary series.
 - **Exponential Smoothing**:
-  - Applied additive or multiplicative models based on data characteristics.
+  - Applied additive  models based on data characteristics.
   - Configured trend and seasonality components.
 
 #### 6. Forecasting and Evaluation
@@ -223,7 +223,6 @@ This notebook applies time-series forecasting techniques to predict future deman
 - **Model Evaluation Metrics**:
   - Mean Absolute Error (MAE)
   - Root Mean Squared Error (RMSE)
-  - Mean Absolute Percentage Error (MAPE)
   - Akaike Information Criterion (AIC) for model comparison.
 - **Visual Assessment**:
   - Plotted actual vs. forecasted values.
@@ -233,7 +232,7 @@ This notebook applies time-series forecasting techniques to predict future deman
 
 ### Key Insights
 #### Model Performance:
-- SARIMA models generally performed better for data with strong seasonal components.
+- Seasonal Naive models generally performed better for data with strong seasonal components.
 - Holt-Winters Exponential Smoothing provided robust forecasts for certain categories.
 
 #### Forecast Results:
@@ -245,7 +244,6 @@ This notebook applies time-series forecasting techniques to predict future deman
 ### Outputs
 - **Forecasted Demand**:
   - Numerical forecasts for future purchase quantities.
-  - Confidence intervals to express forecast uncertainty.
 - **Visualizations**:
   - Time-series plots with historical data and forecasted values.
   - Decomposition plots showing trend, seasonality, and residuals.
