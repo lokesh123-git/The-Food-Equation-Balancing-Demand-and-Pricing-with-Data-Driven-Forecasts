@@ -103,6 +103,13 @@ The cleaned datasets are used for:
 
 ---
 
+### **Dataset Scope and Potential**
+
+The dataset utilized in this project provides a comprehensive view of food consumption patterns across 10 metropolitan regions and 90 food categories, offering valuable insights into urban markets. This dataset forms a robust foundation for analyzing trends, seasonal patterns, and price elasticity, ensuring wide-ranging coverage of consumer behavior.
+
+While the focus on 10 cities enables detailed and actionable insights, expanding the analysis to additional regions would enhance the scope and applicability of the findings. However, obtaining access to datasets for additional cities often requires permissions or collaborations with data providers and governmental organizations, as such data may be restricted or not publicly available. Overcoming this limitation could unlock new opportunities for broader and more impactful analyses.
+
+---
 ## License
 The datasets are publicly available under the respective licenses of the **Bureau of Labor Statistics (BLS)** and **USDA ERS**. Ensure compliance with their usage terms if repurposing the data.
 
