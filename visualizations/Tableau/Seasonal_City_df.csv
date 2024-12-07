@@ -1,0 +1,401 @@
+EFPG_name,Metroregion_name,Season,Latitude,Longitude,Purchase_grams_wtd
+Alcohol,Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,455134708863.0
+Alcohol,Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,459513997598.0
+Alcohol,Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,500231528419.0
+Alcohol,Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,415014750766.0
+Alcohol,Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,162245132201.0
+Alcohol,Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,154716840474.0
+Alcohol,Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,198884769252.0
+Alcohol,Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,149489985542.0
+Alcohol,Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,682559800554.0
+Alcohol,Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,602814018453.0
+Alcohol,Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,696829587634.0
+Alcohol,Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,633845332003.0
+Alcohol,Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,796749786658.0
+Alcohol,Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,816777433863.0
+Alcohol,Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,887422149128.0
+Alcohol,Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,714524167618.0
+Alcohol,Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,235668697816.0
+Alcohol,Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,233676667744.0
+Alcohol,Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,286421822252.0
+Alcohol,Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,220717923267.0
+Alcohol,Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,830082617921.0
+Alcohol,Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,852760404738.0
+Alcohol,Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,912667316691.0
+Alcohol,Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,765923821213.0
+Alcohol,Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,1049557446976.0
+Alcohol,Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,1043219047891.0
+Alcohol,Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,1153950186408.0
+Alcohol,Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,1009331486312.0
+Alcohol,Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,524011390652.0
+Alcohol,Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,550067655537.0
+Alcohol,Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,521031560654.0
+Alcohol,Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,547460764479.0
+Alcohol,New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,485094149895.0
+Alcohol,New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,471534730919.0
+Alcohol,New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,619213768605.0
+Alcohol,New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,444266411296.0
+Alcohol,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,38883571560.0
+Alcohol,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,34803808612.0
+Alcohol,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,45316982658.0
+Alcohol,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,34778477924.0
+All other caloric beverages,Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,1068884632449.0
+All other caloric beverages,Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,1123640802057.0
+All other caloric beverages,Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,1224539014224.0
+All other caloric beverages,Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,1006728589384.0
+All other caloric beverages,Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,646996541676.0
+All other caloric beverages,Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,681602793542.0
+All other caloric beverages,Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,804964917970.0
+All other caloric beverages,Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,627106873662.0
+All other caloric beverages,Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,1585627783812.0
+All other caloric beverages,Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,1668248514622.0
+All other caloric beverages,Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,1750603036500.0
+All other caloric beverages,Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,1642861303252.0
+All other caloric beverages,Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,1322349075113.0
+All other caloric beverages,Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,1364491743436.0
+All other caloric beverages,Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,1540247615956.0
+All other caloric beverages,Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,1235059346605.0
+All other caloric beverages,Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,846742610682.0
+All other caloric beverages,Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,913959731839.0
+All other caloric beverages,Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,992030198310.0
+All other caloric beverages,Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,840178471533.0
+All other caloric beverages,Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,1266624322128.0
+All other caloric beverages,Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,1324042115498.0
+All other caloric beverages,Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,1472393722102.0
+All other caloric beverages,Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,1181523245482.0
+All other caloric beverages,Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,1680655952251.0
+All other caloric beverages,Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,1728366554362.0
+All other caloric beverages,Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,1903082324503.0
+All other caloric beverages,Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,1596168177514.0
+All other caloric beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,1013639364135.0
+All other caloric beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,1093884733133.0
+All other caloric beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,1086279903389.0
+All other caloric beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,1040640302371.0
+All other caloric beverages,New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,2046684666108.0
+All other caloric beverages,New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,2166519001510.0
+All other caloric beverages,New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,2472286202309.0
+All other caloric beverages,New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,2111137020108.0
+All other caloric beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,888598780010.0
+All other caloric beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,919098015984.0
+All other caloric beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,1023660479823.0
+All other caloric beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,868763864767.0
+"Bacon, sausage, and lunch meats",Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,91024645729.0
+"Bacon, sausage, and lunch meats",Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,90332585059.0
+"Bacon, sausage, and lunch meats",Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,90347142120.0
+"Bacon, sausage, and lunch meats",Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,96128483867.0
+"Bacon, sausage, and lunch meats",Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,66356596968.0
+"Bacon, sausage, and lunch meats",Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,72563931046.0
+"Bacon, sausage, and lunch meats",Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,74962120546.0
+"Bacon, sausage, and lunch meats",Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,72771230453.0
+"Bacon, sausage, and lunch meats",Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,140513823120.0
+"Bacon, sausage, and lunch meats",Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,139455998380.0
+"Bacon, sausage, and lunch meats",Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,130898499562.0
+"Bacon, sausage, and lunch meats",Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,158153743534.0
+"Bacon, sausage, and lunch meats",Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,111089399701.0
+"Bacon, sausage, and lunch meats",Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,109861813056.0
+"Bacon, sausage, and lunch meats",Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,109789659320.0
+"Bacon, sausage, and lunch meats",Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,115449098845.0
+"Bacon, sausage, and lunch meats",Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,57245579118.0
+"Bacon, sausage, and lunch meats",Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,65840026146.0
+"Bacon, sausage, and lunch meats",Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,62803396828.0
+"Bacon, sausage, and lunch meats",Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,65011641631.0
+"Bacon, sausage, and lunch meats",Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,90834538643.0
+"Bacon, sausage, and lunch meats",Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,91008687701.0
+"Bacon, sausage, and lunch meats",Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,90044823856.0
+"Bacon, sausage, and lunch meats",Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,95455435818.0
+"Bacon, sausage, and lunch meats",Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,147975969357.0
+"Bacon, sausage, and lunch meats",Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,150017432256.0
+"Bacon, sausage, and lunch meats",Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,147982039708.0
+"Bacon, sausage, and lunch meats",Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,164780035486.0
+"Bacon, sausage, and lunch meats",Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,82786674900.0
+"Bacon, sausage, and lunch meats",Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,83320182420.0
+"Bacon, sausage, and lunch meats",Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,75672192442.0
+"Bacon, sausage, and lunch meats",Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,92205984547.0
+"Bacon, sausage, and lunch meats",New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,187793110620.0
+"Bacon, sausage, and lunch meats",New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,200245199170.0
+"Bacon, sausage, and lunch meats",New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,198510032780.0
+"Bacon, sausage, and lunch meats",New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,209246325633.0
+"Bacon, sausage, and lunch meats",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,99162631410.0
+"Bacon, sausage, and lunch meats",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,106486977628.0
+"Bacon, sausage, and lunch meats",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,99242625135.0
+"Bacon, sausage, and lunch meats",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,106085742048.0
+"Beef, pork, lamb, veal and game, fresh",Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,88572093536.0
+"Beef, pork, lamb, veal and game, fresh",Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,94001161460.0
+"Beef, pork, lamb, veal and game, fresh",Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,93925014916.0
+"Beef, pork, lamb, veal and game, fresh",Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,93246384401.0
+"Beef, pork, lamb, veal and game, fresh",Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,90021251948.0
+"Beef, pork, lamb, veal and game, fresh",Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,97933601935.0
+"Beef, pork, lamb, veal and game, fresh",Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,99757828590.0
+"Beef, pork, lamb, veal and game, fresh",Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,95176618045.0
+"Beef, pork, lamb, veal and game, fresh",Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,129158747787.0
+"Beef, pork, lamb, veal and game, fresh",Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,139250029177.0
+"Beef, pork, lamb, veal and game, fresh",Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,125164373834.0
+"Beef, pork, lamb, veal and game, fresh",Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,145292219276.0
+"Beef, pork, lamb, veal and game, fresh",Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,130196110776.0
+"Beef, pork, lamb, veal and game, fresh",Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,136279685476.0
+"Beef, pork, lamb, veal and game, fresh",Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,134291291727.0
+"Beef, pork, lamb, veal and game, fresh",Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,137063415716.0
+"Beef, pork, lamb, veal and game, fresh",Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,70839179236.0
+"Beef, pork, lamb, veal and game, fresh",Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,79920020117.0
+"Beef, pork, lamb, veal and game, fresh",Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,76689766537.0
+"Beef, pork, lamb, veal and game, fresh",Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,75657237166.0
+"Beef, pork, lamb, veal and game, fresh",Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,130314143595.0
+"Beef, pork, lamb, veal and game, fresh",Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,136079046193.0
+"Beef, pork, lamb, veal and game, fresh",Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,134975618276.0
+"Beef, pork, lamb, veal and game, fresh",Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,141901949468.0
+"Beef, pork, lamb, veal and game, fresh",Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,179753851830.0
+"Beef, pork, lamb, veal and game, fresh",Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,196561424019.0
+"Beef, pork, lamb, veal and game, fresh",Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,188747809455.0
+"Beef, pork, lamb, veal and game, fresh",Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,215285248825.0
+"Beef, pork, lamb, veal and game, fresh",Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,107845603822.0
+"Beef, pork, lamb, veal and game, fresh",Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,117034971584.0
+"Beef, pork, lamb, veal and game, fresh",Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,109885758909.0
+"Beef, pork, lamb, veal and game, fresh",Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,128462790018.0
+"Beef, pork, lamb, veal and game, fresh",New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,198474343824.0
+"Beef, pork, lamb, veal and game, fresh",New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,224001005413.0
+"Beef, pork, lamb, veal and game, fresh",New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,218905569846.0
+"Beef, pork, lamb, veal and game, fresh",New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,222560023090.0
+"Beef, pork, lamb, veal and game, fresh",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,106468935029.0
+"Beef, pork, lamb, veal and game, fresh",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,111574770443.0
+"Beef, pork, lamb, veal and game, fresh",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,108716772627.0
+"Beef, pork, lamb, veal and game, fresh",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,113107399207.0
+Cheese and cream cheese,Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,41367033250.0
+Cheese and cream cheese,Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,38437313020.0
+Cheese and cream cheese,Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,38739226965.0
+Cheese and cream cheese,Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,42350881398.0
+Cheese and cream cheese,Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,46568356967.0
+Cheese and cream cheese,Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,43285471711.0
+Cheese and cream cheese,Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,43700936819.0
+Cheese and cream cheese,Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,48271472600.0
+Cheese and cream cheese,Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,75309831467.0
+Cheese and cream cheese,Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,61506925929.0
+Cheese and cream cheese,Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,57121620729.0
+Cheese and cream cheese,Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,80185583168.0
+Cheese and cream cheese,Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,41430412283.0
+Cheese and cream cheese,Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,40506431657.0
+Cheese and cream cheese,Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,40052409700.0
+Cheese and cream cheese,Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,42704126343.0
+Cheese and cream cheese,Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,32643906876.0
+Cheese and cream cheese,Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,33069847229.0
+Cheese and cream cheese,Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,31585777189.0
+Cheese and cream cheese,Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,34907061088.0
+Cheese and cream cheese,Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,35422666673.0
+Cheese and cream cheese,Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,35712091885.0
+Cheese and cream cheese,Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,34646513334.0
+Cheese and cream cheese,Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,37373682019.0
+Cheese and cream cheese,Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,76886892577.0
+Cheese and cream cheese,Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,76961950580.0
+Cheese and cream cheese,Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,75911956815.0
+Cheese and cream cheese,Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,84239406184.0
+Cheese and cream cheese,Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,40321630386.0
+Cheese and cream cheese,Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,40906826987.0
+Cheese and cream cheese,Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,37002586844.0
+Cheese and cream cheese,Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,43861831417.0
+Cheese and cream cheese,New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,143347905198.0
+Cheese and cream cheese,New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,134862966735.0
+Cheese and cream cheese,New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,125439895406.0
+Cheese and cream cheese,New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,155481089803.0
+Cheese and cream cheese,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,55138845874.0
+Cheese and cream cheese,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,51294876309.0
+Cheese and cream cheese,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,49464085439.0
+Cheese and cream cheese,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,57400099641.0
+Egg and egg substitutes,Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,45748080482.0
+Egg and egg substitutes,Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,45126605130.0
+Egg and egg substitutes,Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,43620916730.0
+Egg and egg substitutes,Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,48712225895.0
+Egg and egg substitutes,Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,51788956129.0
+Egg and egg substitutes,Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,51302952559.0
+Egg and egg substitutes,Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,49735321622.0
+Egg and egg substitutes,Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,54675604233.0
+Egg and egg substitutes,Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,78934717282.0
+Egg and egg substitutes,Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,76681341246.0
+Egg and egg substitutes,Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,67127944505.0
+Egg and egg substitutes,Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,89876590151.0
+Egg and egg substitutes,Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,58293125178.0
+Egg and egg substitutes,Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,60813583816.0
+Egg and egg substitutes,Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,57899178070.0
+Egg and egg substitutes,Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,62042412834.0
+Egg and egg substitutes,Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,37189849650.0
+Egg and egg substitutes,Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,41385429699.0
+Egg and egg substitutes,Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,36863654631.0
+Egg and egg substitutes,Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,41917555993.0
+Egg and egg substitutes,Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,60575728142.0
+Egg and egg substitutes,Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,64133283037.0
+Egg and egg substitutes,Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,63191441359.0
+Egg and egg substitutes,Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,66286861202.0
+Egg and egg substitutes,Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,89885934010.0
+Egg and egg substitutes,Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,93870878643.0
+Egg and egg substitutes,Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,93182179401.0
+Egg and egg substitutes,Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,101014083213.0
+Egg and egg substitutes,Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,47998909218.0
+Egg and egg substitutes,Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,50228719984.0
+Egg and egg substitutes,Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,46447440408.0
+Egg and egg substitutes,Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,54001233149.0
+Egg and egg substitutes,New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,187735332041.0
+Egg and egg substitutes,New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,180816073477.0
+Egg and egg substitutes,New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,171904440240.0
+Egg and egg substitutes,New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,200721332201.0
+Egg and egg substitutes,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,57066895440.0
+Egg and egg substitutes,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,57575631220.0
+Egg and egg substitutes,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,55421968943.0
+Egg and egg substitutes,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,62085018185.0
+Frozen and refrigerated ready-to-heat foods,Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,134757528836.0
+Frozen and refrigerated ready-to-heat foods,Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,134756366411.0
+Frozen and refrigerated ready-to-heat foods,Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,133617080343.0
+Frozen and refrigerated ready-to-heat foods,Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,142267587621.0
+Frozen and refrigerated ready-to-heat foods,Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,111315533101.0
+Frozen and refrigerated ready-to-heat foods,Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,112467898551.0
+Frozen and refrigerated ready-to-heat foods,Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,101984280759.0
+Frozen and refrigerated ready-to-heat foods,Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,122439487136.0
+Frozen and refrigerated ready-to-heat foods,Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,245914937576.0
+Frozen and refrigerated ready-to-heat foods,Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,228202841476.0
+Frozen and refrigerated ready-to-heat foods,Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,202223753164.0
+Frozen and refrigerated ready-to-heat foods,Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,278006401702.0
+Frozen and refrigerated ready-to-heat foods,Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,145859053107.0
+Frozen and refrigerated ready-to-heat foods,Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,149934071993.0
+Frozen and refrigerated ready-to-heat foods,Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,146342091739.0
+Frozen and refrigerated ready-to-heat foods,Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,153680407205.0
+Frozen and refrigerated ready-to-heat foods,Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,105908359500.0
+Frozen and refrigerated ready-to-heat foods,Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,110117728571.0
+Frozen and refrigerated ready-to-heat foods,Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,101089428143.0
+Frozen and refrigerated ready-to-heat foods,Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,116558394685.0
+Frozen and refrigerated ready-to-heat foods,Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,120615362047.0
+Frozen and refrigerated ready-to-heat foods,Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,124041442289.0
+Frozen and refrigerated ready-to-heat foods,Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,120761313392.0
+Frozen and refrigerated ready-to-heat foods,Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,127275466158.0
+Frozen and refrigerated ready-to-heat foods,Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,210804793581.0
+Frozen and refrigerated ready-to-heat foods,Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,219163872259.0
+Frozen and refrigerated ready-to-heat foods,Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,205962565438.0
+Frozen and refrigerated ready-to-heat foods,Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,241305888009.0
+Frozen and refrigerated ready-to-heat foods,Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,109709924208.0
+Frozen and refrigerated ready-to-heat foods,Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,115649658612.0
+Frozen and refrigerated ready-to-heat foods,Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,105714896260.0
+Frozen and refrigerated ready-to-heat foods,Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,121645626315.0
+Frozen and refrigerated ready-to-heat foods,New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,280559299703.0
+Frozen and refrigerated ready-to-heat foods,New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,294153392225.0
+Frozen and refrigerated ready-to-heat foods,New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,257527985986.0
+Frozen and refrigerated ready-to-heat foods,New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,335765222674.0
+Frozen and refrigerated ready-to-heat foods,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,172147145625.0
+Frozen and refrigerated ready-to-heat foods,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,168270120130.0
+Frozen and refrigerated ready-to-heat foods,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,154026833544.0
+Frozen and refrigerated ready-to-heat foods,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,183582079156.0
+Low-calorie beverages,Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,361649978602.0
+Low-calorie beverages,Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,387950836537.0
+Low-calorie beverages,Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,399495967703.0
+Low-calorie beverages,Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,354798549628.0
+Low-calorie beverages,Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,326501761809.0
+Low-calorie beverages,Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,361305140385.0
+Low-calorie beverages,Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,400220603107.0
+Low-calorie beverages,Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,323840376409.0
+Low-calorie beverages,Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,653359962582.0
+Low-calorie beverages,Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,666117612473.0
+Low-calorie beverages,Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,650626504551.0
+Low-calorie beverages,Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,686661818343.0
+Low-calorie beverages,Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,379267462832.0
+Low-calorie beverages,Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,402870288013.0
+Low-calorie beverages,Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,419938481522.0
+Low-calorie beverages,Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,373684910799.0
+Low-calorie beverages,Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,301239168997.0
+Low-calorie beverages,Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,340805868385.0
+Low-calorie beverages,Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,348363881020.0
+Low-calorie beverages,Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,314703331863.0
+Low-calorie beverages,Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,351618151598.0
+Low-calorie beverages,Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,375779285214.0
+Low-calorie beverages,Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,385336001165.0
+Low-calorie beverages,Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,348699857484.0
+Low-calorie beverages,Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,548547487952.0
+Low-calorie beverages,Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,583911254586.0
+Low-calorie beverages,Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,604346003779.0
+Low-calorie beverages,Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,551083018232.0
+Low-calorie beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,282345471925.0
+Low-calorie beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,306066099762.0
+Low-calorie beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,282686449887.0
+Low-calorie beverages,Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,302635162078.0
+Low-calorie beverages,New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,712684489555.0
+Low-calorie beverages,New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,805138002671.0
+Low-calorie beverages,New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,846203127814.0
+Low-calorie beverages,New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,782055117492.0
+Low-calorie beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,330192243405.0
+Low-calorie beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,355693939412.0
+Low-calorie beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,370788494773.0
+Low-calorie beverages,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,333845137534.0
+"Shelf-stable, ready-to-heat foods and soups",Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,83146155595.0
+"Shelf-stable, ready-to-heat foods and soups",Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,59991501427.0
+"Shelf-stable, ready-to-heat foods and soups",Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,56037722605.0
+"Shelf-stable, ready-to-heat foods and soups",Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,85144257642.0
+"Shelf-stable, ready-to-heat foods and soups",Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,72260831608.0
+"Shelf-stable, ready-to-heat foods and soups",Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,51650120388.0
+"Shelf-stable, ready-to-heat foods and soups",Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,39322834786.0
+"Shelf-stable, ready-to-heat foods and soups",Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,77181565395.0
+"Shelf-stable, ready-to-heat foods and soups",Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,134070272230.0
+"Shelf-stable, ready-to-heat foods and soups",Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,91252351938.0
+"Shelf-stable, ready-to-heat foods and soups",Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,70512567860.0
+"Shelf-stable, ready-to-heat foods and soups",Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,141261068687.0
+"Shelf-stable, ready-to-heat foods and soups",Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,86789979465.0
+"Shelf-stable, ready-to-heat foods and soups",Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,65968251405.0
+"Shelf-stable, ready-to-heat foods and soups",Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,60719840646.0
+"Shelf-stable, ready-to-heat foods and soups",Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,88879209947.0
+"Shelf-stable, ready-to-heat foods and soups",Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,60097464974.0
+"Shelf-stable, ready-to-heat foods and soups",Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,48603134679.0
+"Shelf-stable, ready-to-heat foods and soups",Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,40772502007.0
+"Shelf-stable, ready-to-heat foods and soups",Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,64618263219.0
+"Shelf-stable, ready-to-heat foods and soups",Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,67802252908.0
+"Shelf-stable, ready-to-heat foods and soups",Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,52966889303.0
+"Shelf-stable, ready-to-heat foods and soups",Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,50225291923.0
+"Shelf-stable, ready-to-heat foods and soups",Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,69422228175.0
+"Shelf-stable, ready-to-heat foods and soups",Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,115646137180.0
+"Shelf-stable, ready-to-heat foods and soups",Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,91181735334.0
+"Shelf-stable, ready-to-heat foods and soups",Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,76517642100.0
+"Shelf-stable, ready-to-heat foods and soups",Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,130775734169.0
+"Shelf-stable, ready-to-heat foods and soups",Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,60417428675.0
+"Shelf-stable, ready-to-heat foods and soups",Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,53288462444.0
+"Shelf-stable, ready-to-heat foods and soups",Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,46774935914.0
+"Shelf-stable, ready-to-heat foods and soups",Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,65365989420.0
+"Shelf-stable, ready-to-heat foods and soups",New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,189046559410.0
+"Shelf-stable, ready-to-heat foods and soups",New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,130024622360.0
+"Shelf-stable, ready-to-heat foods and soups",New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,96877469412.0
+"Shelf-stable, ready-to-heat foods and soups",New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,224551803726.0
+"Shelf-stable, ready-to-heat foods and soups",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,101702367736.0
+"Shelf-stable, ready-to-heat foods and soups",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,69594555723.0
+"Shelf-stable, ready-to-heat foods and soups",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,55842376842.0
+"Shelf-stable, ready-to-heat foods and soups",Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,109303618215.0
+Whole milk,Atlanta-Sandy Springs-Roswell  GA,Fall,33.749,-84.388,109212208190.0
+Whole milk,Atlanta-Sandy Springs-Roswell  GA,Spring,33.749,-84.388,105995045556.0
+Whole milk,Atlanta-Sandy Springs-Roswell  GA,Summer,33.749,-84.388,108015111940.0
+Whole milk,Atlanta-Sandy Springs-Roswell  GA,Winter,33.749,-84.388,111686974509.0
+Whole milk,Boston-Cambridge-Newton  MA-NH,Fall,42.3601,-71.0589,106759170105.0
+Whole milk,Boston-Cambridge-Newton  MA-NH,Spring,42.3601,-71.0589,106065947318.0
+Whole milk,Boston-Cambridge-Newton  MA-NH,Summer,42.3601,-71.0589,104694556893.0
+Whole milk,Boston-Cambridge-Newton  MA-NH,Winter,42.3601,-71.0589,110282501575.0
+Whole milk,Chicago-Naperville-Elgin  IL-IN-WI,Fall,41.8781,-87.6298,133989861010.0
+Whole milk,Chicago-Naperville-Elgin  IL-IN-WI,Spring,41.8781,-87.6298,123576142712.0
+Whole milk,Chicago-Naperville-Elgin  IL-IN-WI,Summer,41.8781,-87.6298,116070507639.0
+Whole milk,Chicago-Naperville-Elgin  IL-IN-WI,Winter,41.8781,-87.6298,142022184338.0
+Whole milk,Dallas-Fort Worth-Arlington  TX,Fall,32.7767,-96.797,137587768557.0
+Whole milk,Dallas-Fort Worth-Arlington  TX,Spring,32.7767,-96.797,135281056372.0
+Whole milk,Dallas-Fort Worth-Arlington  TX,Summer,32.7767,-96.797,138147803979.0
+Whole milk,Dallas-Fort Worth-Arlington  TX,Winter,32.7767,-96.797,140612867535.0
+Whole milk,Detroit-Warren-Dearborn  MI,Fall,42.3314,-83.0458,90052181945.0
+Whole milk,Detroit-Warren-Dearborn  MI,Spring,42.3314,-83.0458,95514810737.0
+Whole milk,Detroit-Warren-Dearborn  MI,Summer,42.3314,-83.0458,88236832495.0
+Whole milk,Detroit-Warren-Dearborn  MI,Winter,42.3314,-83.0458,96478383630.0
+Whole milk,Houston-The Woodlands-Sugar Land  TX,Fall,29.7604,-95.3698,166526631360.0
+Whole milk,Houston-The Woodlands-Sugar Land  TX,Spring,29.7604,-95.3698,163647104259.0
+Whole milk,Houston-The Woodlands-Sugar Land  TX,Summer,29.7604,-95.3698,168125032206.0
+Whole milk,Houston-The Woodlands-Sugar Land  TX,Winter,29.7604,-95.3698,170701285361.0
+Whole milk,Los Angeles-Long Beach-Anaheim  CA,Fall,34.0522,-118.2437,186762120021.0
+Whole milk,Los Angeles-Long Beach-Anaheim  CA,Spring,34.0522,-118.2437,188252880808.0
+Whole milk,Los Angeles-Long Beach-Anaheim  CA,Summer,34.0522,-118.2437,187213255912.0
+Whole milk,Los Angeles-Long Beach-Anaheim  CA,Winter,34.0522,-118.2437,201261153517.0
+Whole milk,Miami-Fort Lauderdale-West Palm Beach  FL,Fall,25.7617,-80.1918,131774210783.0
+Whole milk,Miami-Fort Lauderdale-West Palm Beach  FL,Spring,25.7617,-80.1918,142802516092.0
+Whole milk,Miami-Fort Lauderdale-West Palm Beach  FL,Summer,25.7617,-80.1918,128389261743.0
+Whole milk,Miami-Fort Lauderdale-West Palm Beach  FL,Winter,25.7617,-80.1918,151813228260.0
+Whole milk,New York-Newark-Jersey City  NY-NJ-PA,Fall,40.7128,-74.006,476295445902.0
+Whole milk,New York-Newark-Jersey City  NY-NJ-PA,Spring,40.7128,-74.006,459129744734.0
+Whole milk,New York-Newark-Jersey City  NY-NJ-PA,Summer,40.7128,-74.006,441664984783.0
+Whole milk,New York-Newark-Jersey City  NY-NJ-PA,Winter,40.7128,-74.006,512675354836.0
+Whole milk,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Fall,39.9526,-75.1652,136107523141.0
+Whole milk,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Spring,39.9526,-75.1652,131223372884.0
+Whole milk,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Summer,39.9526,-75.1652,129624545944.0
+Whole milk,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,Winter,39.9526,-75.1652,138034260234.0
