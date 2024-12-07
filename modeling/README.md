@@ -140,6 +140,8 @@ This notebook focuses on building supervised machine learning models to predict 
   - Mean Squared Error (MSE)
   - Root Mean Squared Error (RMSE)
   - R-squared (R²)
+  ![Picture1](https://github.com/user-attachments/assets/e3929755-59e0-4a1a-a105-d54b33c606d8)
+
 - **Results**:
   - Compared model performances and selected the best-performing model.
   - Random Forest and Gradient Boosting showed superior performance due to their ability to capture nonlinear relationships.
