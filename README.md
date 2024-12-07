@@ -126,6 +126,12 @@ If you find this project helpful or interesting, feel free to ⭐ star the repos
    cd The-Food-Equation-Balancing-Demand-and-Pricing-with-Data-Driven-Forecasts
 
 ---
+### **Dataset Scope and Potential**
+
+The dataset used in this project spans **10 metropolitan regions** and **90 food categories** from **2012 to 2018**, offering a solid foundation for analyzing consumer behavior, seasonal trends, and price elasticity. Its breadth ensures valuable insights into urban consumption patterns, helping businesses and policymakers make data-driven decisions. The dataset's focus on diverse food categories and regional coverage allows for targeted analyses that uncover critical market trends.
+
+However, access to additional cities and regions is restricted, as the USDA and other providers require collaborations or permissions for more extensive datasets. Expanding the dataset's scope could unlock deeper insights into non-urban and rural markets, providing a more comprehensive view of nationwide consumer behavior. Overcoming these limitations would enable the project to scale its impact and relevance across broader geographic and demographic contexts.
+---
 
 ## **Future Directions**
 
