@@ -177,6 +177,53 @@ If you find this project helpful or interesting, feel free to ⭐ star the repos
 
 
 ---
+
+## **Tableau Dashboard**
+
+The project features an **interactive Tableau dashboard** designed to deliver actionable insights into demand patterns, forecasting trends, and regional behaviors. This dashboard is a cornerstone of the project, offering dynamic, user-friendly visualizations that empower stakeholders to make informed decisions.
+
+
+![WhatsApp Image 2024-12-06 at 6 04 20 PM](https://github.com/user-attachments/assets/326d46d4-bf50-4b44-ade1-c3a251838d62)
+
+
+### **Key Features**
+
+1. **Geographical Mapping**:
+   - Interactive maps displaying demand trends across the 10 metropolitan regions.
+   - Region and city filters for localized analysis of consumer behavior.
+
+2. **Seasonality Analysis**:
+   - Seasonal demand variations visualized for all major food categories (e.g., Alcohol, Milk, Frozen Foods).
+   - Enables a detailed exploration of trends across Spring, Summer, Fall, and Winter.
+
+3. **Demand Forecasting**:
+   - Time-series forecasting outputs with predicted demand trends for the next 6–12 months.
+   - Includes confidence intervals to guide inventory and procurement decisions.
+
+4. **Purchase Grams Weighted Distribution**:
+   - Visualizes the weighted purchase distribution across various food categories.
+   - Helps in identifying high-demand categories and their contributions to overall consumption.
+
+5. **Category Comparisons**:
+   - Bar plots highlighting demand disparities across seasons and regions.
+   - Provides insights into category-specific demand dynamics.
+
+
+### **Significance of the Tableau Dashboard**
+
+The Tableau dashboard provides the following advantages:
+- **Strategic Planning**: Assists in inventory management, pricing strategies, and promotional campaigns.
+- **Trend Analysis**: Identifies consumer behavior patterns across regions and seasons.
+- **Forecast Validation**: Compares actual vs. predicted values to refine forecasting models.
+- **Stakeholder Communication**: Simplifies complex data into intuitive visualizations for decision-making.
+
+
+
+### **Access the Dashboard**
+All visualizations, including the Tableau dashboard, can be found in the [`03_visualizations/`](03_visualizations/) folder. For a dynamic experience, open the Tableau dashboard file using Tableau Reader.
+
+> **Note**: Accessing additional Tableau features may require Tableau Desktop or Tableau Public.
+---
 ## **Acknowledgements**
 
 We extend our gratitude to:
