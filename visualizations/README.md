@@ -13,6 +13,9 @@ This folder contains all the visual outputs generated during the analysis for th
 2. **`forecasting/`**:
    - Contains outputs from time-series forecasting for demand prediction.
    - Focuses on trends, seasonality, and residuals across different metropolitan regions.
+3. **`tableau_dashboard/`**  
+   - Includes the interactive Tableau dashboard file.  
+   - Provides an intuitive way to explore seasonal trends, forecasting outputs, and weighted purchase distributions interactively.
 
 ---
 
