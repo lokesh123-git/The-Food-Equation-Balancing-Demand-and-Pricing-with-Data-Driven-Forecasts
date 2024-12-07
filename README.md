@@ -239,7 +239,7 @@ The **Food Equation: Balancing Demand and Pricing with Data-Driven Forecasts** p
 ### **Key Takeaways**
 - **Seasonality Analysis**: Highlighted significant seasonal trends, such as increased demand for staples during winter and beverages in summer, enabling better inventory planning.
 - **Demand Prediction**: Developed robust machine learning models that identified key predictors of consumer demand, providing valuable insights for pricing and procurement.
-- **Price Elasticity**: Quantified how changes in price impact consumer demand, distinguishing between elastic (luxury) and inelastic (staples) products.
+- **Price Elasticity**: Quantified how changes in price impact consumer demand, distinguishing between elastic  and inelastic  products.
 - **Forecasting**: Delivered accurate demand forecasts for the next 6 months, supporting proactive decision-making and efficient resource allocation.
 
 ### **Impact**
