@@ -220,7 +220,7 @@ The Tableau dashboard provides the following advantages:
 
 
 ### **Access the Dashboard**
-All visualizations, including the Tableau dashboard, can be found in the [`03_visualizations/`](03_visualizations/) folder. For a dynamic experience, open the Tableau dashboard file using Tableau Reader.
+All visualizations, including the Tableau dashboard, can be found in the [`visualizations/`](visualizations/) folder. For a dynamic experience, open the Tableau dashboard file using Tableau Reader.
 
 > **Note**: Accessing additional Tableau features may require Tableau Desktop or Tableau Public.
 ---
