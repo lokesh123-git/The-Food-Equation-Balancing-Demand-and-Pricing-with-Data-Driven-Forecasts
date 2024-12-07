@@ -105,9 +105,9 @@ The cleaned datasets are used for:
 
 ### **Dataset Scope and Potential**
 
-The dataset utilized in this project provides a comprehensive view of food consumption patterns across 10 metropolitan regions and 90 food categories, offering valuable insights into urban markets. This dataset forms a robust foundation for analyzing trends, seasonal patterns, and price elasticity, ensuring wide-ranging coverage of consumer behavior.
+The dataset used in this project spans **10 metropolitan regions** and **90 food categories** from **2012 to 2018**, offering a solid foundation for analyzing consumer behavior, seasonal trends, and price elasticity. Its breadth ensures valuable insights into urban consumption patterns, helping businesses and policymakers make data-driven decisions. The dataset's focus on diverse food categories and regional coverage allows for targeted analyses that uncover critical market trends.
 
-While the focus on 10 cities enables detailed and actionable insights, expanding the analysis to additional regions would enhance the scope and applicability of the findings. However, obtaining access to datasets for additional cities often requires permissions or collaborations with data providers and governmental organizations, as such data may be restricted or not publicly available. Overcoming this limitation could unlock new opportunities for broader and more impactful analyses.
+However, access to additional cities and regions is restricted, as the USDA and other providers require collaborations or permissions for more extensive datasets. Expanding the dataset's scope could unlock deeper insights into non-urban and rural markets, providing a more comprehensive view of nationwide consumer behavior. Overcoming these limitations would enable the project to scale its impact and relevance across broader geographic and demographic contexts.
 
 ---
 ## License
